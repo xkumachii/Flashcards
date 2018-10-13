@@ -5,7 +5,7 @@ This app is a simple flashcard, asking the user what the powerhouse of a cell is
 
 ### App Walk-though
 
-<img src="https://imgur.com/9lP0rAo" width=200><br>
+<img src="https://i.imgur.com/9lP0rAo.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
