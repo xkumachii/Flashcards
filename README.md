@@ -8,7 +8,7 @@ The user is now able to change the question and answer of the flashcard.
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://i.imgur.com/2bI3FHx.gif" width=200><br>
 
 
 ## Required
