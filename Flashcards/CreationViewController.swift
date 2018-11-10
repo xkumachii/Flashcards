@@ -8,14 +8,15 @@
 
 import UIKit
 
-class CreationViewController: UIViewController {
+class CreationViewController: UIViewController
+{
     
     var flashCardsController: ViewController!
     @IBOutlet weak var questionTextField: UITextField!
     @IBOutlet weak var answerTextField: UITextField!
     
-    
-    override func viewDidLoad() {
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
